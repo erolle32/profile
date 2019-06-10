@@ -1,0 +1,13 @@
+Header Subtitle -
+I was a customer service representive making a carreer jump towards web developing. responsible for designing, coding and modifying websites from scratch to function that will fit my clients specification and desire. Striving to create a visually appealing sites that features user-friendly design and clear navigation.
+
+HTML - Making complete end to end coding of websites.
+
+CSS3 - Making website attractive and appealing to the eye of the user.
+
+Bootstrap - taking advantage of bootstrap4 to make websites responsive to maximize all screen compatibility.
+
+Javascript - Making websites perform to what clients want.
+
+JQuery - Makes coding more short and simple for cleaner and efficient debugging and modification.
+
