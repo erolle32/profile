@@ -202,8 +202,8 @@ color:#21759b;
 }
 #red{
   background: #ff1232;
-  height:80px;
-  width:80px;
+  height:120px;
+  width:120px;
   text-decoration: none;
   border-radius:100% 0 0 0;
 }
@@ -213,8 +213,8 @@ color:#21759b;
 }
 #blue{
   background: #0015ff;
-  height:80px;
-  width:80px;
+  height:120px;
+  width:120px;
   text-decoration: none;
   border-radius:0 100% 0 0;
 }
@@ -224,8 +224,8 @@ color:#21759b;
 }
 #green{
   background: #00ff09;
-  height:80px;
-  width:80px;
+  height:120px;
+  width:120px;
   text-decoration: none;
   border-radius:0 0 0 100%;
 }
@@ -235,8 +235,8 @@ color:#21759b;
 }
 #yellow{
   background: #ffff00;
-  height:80px;
-  width:80px;
+  height:120px;
+  width:120px;
   text-decoration: none;
   border-radius:0 0 100% 0;
 }
